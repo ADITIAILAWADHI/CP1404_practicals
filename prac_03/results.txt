@@ -1,0 +1,4 @@
+97 is Excellent
+32 is Bad
+70 is Pass
+99 is Excellent
